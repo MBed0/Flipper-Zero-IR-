@@ -1,0 +1,92 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Power
+type: parsed
+protocol: NEC
+address: 00 DF 00 00
+command: 14 EB 00 00
+# 
+name: Source
+type: parsed
+protocol: NEC
+address: 00 DF 00 00
+command: 0F F0 00 00
+# 
+name: Home
+type: parsed
+protocol: NEC
+address: 00 DF 00 00
+command: 12 ED 00 00
+# 
+name: Menu
+type: parsed
+protocol: NEC
+address: 00 DF 00 00
+command: 1C E3 00 00
+# 
+name: Up
+type: parsed
+protocol: NEC
+address: 00 DF 00 00
+command: 17 E8 00 00
+# 
+name: Down
+type: parsed
+protocol: NEC
+address: 00 DF 00 00
+command: 19 E6 00 00
+# 
+name: Left
+type: parsed
+protocol: NEC
+address: 00 DF 00 00
+command: 16 E9 00 00
+# 
+name: Right
+type: parsed
+protocol: NEC
+address: 00 DF 00 00
+command: 18 E7 00 00
+# 
+name: Ok
+type: parsed
+protocol: NEC
+address: 00 DF 00 00
+command: 15 EA 00 00
+# 
+name: Back
+type: parsed
+protocol: NEC
+address: 00 DF 00 00
+command: 1D E2 00 00
+# 
+name: Vol+
+type: parsed
+protocol: NEC
+address: 00 DF 00 00
+command: 0A F5 00 00
+# 
+name: Vol-
+type: parsed
+protocol: NEC
+address: 00 DF 00 00
+command: 0E F1 00 00
+# 
+name: Mute
+type: parsed
+protocol: NEC
+address: 00 DF 00 00
+command: 11 EE 00 00
+# 
+name: Eco
+type: parsed
+protocol: NEC
+address: 00 DF 00 00
+command: 09 F6 00 00
+# 
+name: Freeze
+type: parsed
+protocol: NEC
+address: 00 DF 00 00
+command: 45 BA 00 00
